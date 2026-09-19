@@ -131,11 +131,8 @@ Node.js Oracle Database JavaScript Docker
 
 ## 📊 GitHub Stats
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=ratchanonpr-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratchanonpr-hub&layout=compact&theme=tokyonight&hide_border=true&count_private=false" height="180"/>
-
 </div>
 
 ## 🔥 Contribution Streak
