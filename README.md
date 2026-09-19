@@ -52,3 +52,28 @@ public class Ratchanon {
 
     String mindset = "Learn fast. Build things. Keep improving.";
 }
+```
+## 👨‍💻 About Me
+
+Hi! I'm **Ratchanon Pradabkaew**, a Computer Science student at **Khon Kaen University** 🇹🇭
+
+I'm interested in **Full Stack Development**, with a particular focus on **Backend Development** and **Database Systems**. I enjoy building applications, developing APIs, working with databases, and learning new technologies through hands-on projects.
+
+### 🚀 What I Do
+
+- 💻 Develop backend and web applications
+- 🗄️ Design and work with relational databases
+- 🔌 Build and test REST APIs
+- 🌱 Learn new technologies through projects
+- 🤝 Enjoy working and collaborating with a team
+
+### 🛠️ Technologies I Work With
+
+`Java` `Python` `C` `Spring Boot` `FastAPI`  
+`PostgreSQL` `Oracle` `Docker` `Git` `GitHub` `Postman`
+
+### 🎯 Currently Focused On
+
+**Backend Development · Full Stack Development · Database Systems · Software Development**
+
+> 💡 **Learn fast. Build things. Keep improving.**
