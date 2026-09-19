@@ -109,3 +109,36 @@ focused on backend functionality and database management.
 - 🧰 Tech Stack
 
 Node.js Oracle Database JavaScript Docker
+
+## 📚 Academic Projects & Coursework
+### ☕ Java & Spring Boot
+- Spring Boot Web Applications
+- REST API Development
+- WebClient / Reactive Programming
+- Repository → Service → Controller Architecture
+- JPA / Hibernate
+### 🐍 Python & AI
+- Machine Learning Projects
+- CNN Image Classification
+- Data Processing
+- Model Experimentation
+### 🗄️ Database Systems
+- Relational Database Design
+- SQL
+- Oracle Database
+- PostgreSQL
+- Database-driven Applications
+
+## 📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ratchanonpr-hub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratchanonpr-hub&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"> </div>
+
+## 🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ratchanonpr-hub&theme=tokyonight&hide_border=true&border_radius=12"> </div>
+
+## 📈 GitHub Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ratchanonpr-hub&theme=tokyo-night&hide_border=true&area=true"> </div>
+
+## 🤝 Let's Connect
+<div align="center"> <a href="mailto:pradabkaewbawweiyng@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/ratchanon-pradapkaew-7b0742436/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/ratchanonpr-hub"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+<br><br>
