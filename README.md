@@ -94,7 +94,7 @@ I'm interested in **Full Stack Development**, with a particular focus on **Backe
 ## 🚀 Featured Project
 ### 💊 Pharmacy Management System
 <a href="https://github.com/bbthecat/DBMSFinal"> <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
-Backend & Database Developer
+> **Backend & Database Developer**
 
 A pharmacy management system developed as a team project,
 focused on backend functionality and database management.
