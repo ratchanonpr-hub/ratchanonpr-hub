@@ -1,47 +1,54 @@
-# Ratchanon
-My Computer Networks journey — assignments, labs, and network architecture project.
+<div align="center">
 
-# 👋 Hi, I'm Ratchanon (Ole)
+# 👋 Hi, I'm Ratchanon Pradabkaew
 
-🎓 Computer Science Student  
-🏫 Khon Kaen University  
+### `Computer Science Student` · `Full Stack Developer` · `Backend Enthusiast`
 
----
+<p>
+  <a href="https://github.com/ratchanonpr-hub">
+    <img src="https://img.shields.io/badge/GitHub-ratchanonpr--hub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ratchanon-pradapkaew-7b0742436/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ratchanon%20Pradabkaew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pradabkaewbawweiyng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-## 📚 Academic Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ratchanon%20Pradabkaew&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
 
-| Course | Description | Link |
-|--------|------------|------|
-| 🌐 CP352005 — Computer Networks | แฟ้มสะสมผลงานรายวิชา Computer Networks (Assignments, Labs, Project) | [Colab](https://colab.research.google.com/drive/1CdMq4Y3nL-Wk8-uzmsnbHLGrgwuv0Dog?usp=sharing) |
-
----
-
-## 💻 Skills
-- Python 🐍  
-- Java ☕  
-- SQL 🗄️  
-- Network Design 🌐  
+</div>
 
 ---
 
-## 🚀 Projects
-- 🔗 Brain-Net Architecture Specification  
-  https://github.com/bbthecat/Brain-Net-Architecture-Specification-v1.0  
+## 👨‍💻 `whoami`
 
----
+```java
+public class Ratchanon {
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=bbthecat&show_icons=true)
+    String name = "Ratchanon Pradabkaew";
+    String university = "Khon Kaen University";
+    String major = "Computer Science";
+    String role = "Full Stack Developer";
 
----
+    String[] interests = {
+        "Backend Development",
+        "Web Application",
+        "Database Systems",
+        "Software Development"
+    };
 
-## ✨ About Me
-- 💡 สนใจด้าน Computer Networks และ Game Development  
-- 🎮 กำลังพัฒนาเกมด้วย Python (Pygame)  
-- 🧠 CEO @ MindinfinX  
+    String[] technologies = {
+        "Java",
+        "Python",
+        "C",
+        "Spring Boot",
+        "FastAPI",
+        "PostgreSQL",
+        "Oracle",
+        "Docker"
+    };
 
----
-
-## 📌 Note
-Portfolio นี้รวบรวมผลงานด้านวิชาการและโปรเจกต์ต่าง ๆ  
-สามารถนำไปใช้ประกอบการเรียนหรือสมัครงานได้
+    String mindset = "Learn fast. Build things. Keep improving.";
+}
